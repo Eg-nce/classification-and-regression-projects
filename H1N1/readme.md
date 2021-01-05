@@ -4,7 +4,7 @@ H1N1 is a influenza virus causing illness in people. This virus was first detect
 
 This project  predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors. Project's dataset has 36 columns. 
 
-# The features in this dataset are as follows:
+### The features in this dataset are as follows: 
 
 h1n1_concern - Level of concern about the H1N1 flu
 
