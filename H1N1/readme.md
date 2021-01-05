@@ -2,7 +2,7 @@
 
 H1N1 is a influenza virus causing illness in people. This virus was first detected in people in the United States in April 2009. This virus is spreading from person-to-person worldwide, probably in much the same way that regular seasonal influenza viruses spread.
 
-This project  predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors. There are 36 columns. 
+This project  predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors. There are 36 columns in this dataset. 
 
 ### The features in this dataset are as follows: 
 
